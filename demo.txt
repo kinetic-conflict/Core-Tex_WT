@@ -1,0 +1,5 @@
+Problem Statement
+Design and develop a simple, secure platform that allows students and small developers to
+share their idle GPU and CPU resources over the internet, and for others to use those resources
+for small AI training jobs and general computational tasks such as simulations, data processing,
+and research experiments
